@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a0ecaa5c1d8431ba1d735007a165e31, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: 
+  itemName: Stick
+  icon: {fileID: 21300000, guid: 76a4f12ca9b207f48ab59da725d527be, type: 3}
+  mesh: {fileID: -4224193870148154796, guid: 9646a0d23526ef243a617473a78626df, type: 3}
+  material: {fileID: 2100000, guid: 192fa55f437d0c249aa225aea82952d2, type: 2}
+  weight: 1
+  value: 1

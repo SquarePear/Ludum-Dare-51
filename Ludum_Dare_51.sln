@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{949fd804-1647-e591-6091-77948f3fa432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer", "Sirenix.OdinInspector.CompatibilityLayer.csproj", "{5b4a4287-dfb8-614a-eb23-0d0609007353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer.Editor", "Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj", "{c4a69c23-4775-7543-9f23-4d68165e4af2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{0284d7b3-a640-260d-8014-391821ff3b51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{02133ff0-0ede-579c-8269-f40ef2441519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{959a00d2-e2ec-df59-c262-2f2e0b3a8a0f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949fd804-1647-e591-6091-77948f3fa432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949fd804-1647-e591-6091-77948f3fa432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5b4a4287-dfb8-614a-eb23-0d0609007353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5b4a4287-dfb8-614a-eb23-0d0609007353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c4a69c23-4775-7543-9f23-4d68165e4af2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c4a69c23-4775-7543-9f23-4d68165e4af2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0284d7b3-a640-260d-8014-391821ff3b51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0284d7b3-a640-260d-8014-391821ff3b51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02133ff0-0ede-579c-8269-f40ef2441519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02133ff0-0ede-579c-8269-f40ef2441519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959a00d2-e2ec-df59-c262-2f2e0b3a8a0f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959a00d2-e2ec-df59-c262-2f2e0b3a8a0f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
